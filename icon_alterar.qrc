@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_alterar">
+    <file>Icons/alterar.png</file>
+  </qresource>
+</RCC>

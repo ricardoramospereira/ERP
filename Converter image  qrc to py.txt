@@ -1,0 +1,1 @@
+pyrcc5 'nome da imagem'.qrc -o 'nome da imagem'.py

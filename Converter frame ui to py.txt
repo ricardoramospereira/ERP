@@ -1,0 +1,1 @@
+pyuic5 'nome do frame'.ui -o 'nome do frame'.py -x

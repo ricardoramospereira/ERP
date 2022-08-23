@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_bancos">
+    <file>Icons/banco.png</file>
+  </qresource>
+</RCC>

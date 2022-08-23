@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icon_retornar">
+    <file>Icons/retornar.png</file>
+  </qresource>
+</RCC>
